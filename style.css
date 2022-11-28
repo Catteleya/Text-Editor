@@ -3,8 +3,9 @@ html {
   background-color: #ff6969;
 }
 
-*{
+button{
   color:#ddd;
+  background-color:#ff6969;
 }
 
 body {
