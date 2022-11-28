@@ -1,6 +1,7 @@
 html {
   font-family: "Helevetica", sans-serif;
   background-color: #ff6969;
+  border-color: #ff6969;
 }
 
 button{
@@ -9,7 +10,8 @@ button{
 }
 
 body {
-  color: #ff6969;
+  background-color: #ff6969;
+  color: #ddd;
   font-weight: 100;
   max-width: 50em;
   margin: 0 auto;
