@@ -2,11 +2,13 @@ html {
   font-family: "Helevetica", sans-serif;
   background-color: #ff6969;
   border-color: #ff6969;
+  color: #ddd;
 }
 
 button{
-  color:#ddd;
-  background-color:#ff6969;
+  background-color: #ff6969;
+  border-color: #ff6969;
+  color: #ddd;
 }
 
 body {
