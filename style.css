@@ -2,8 +2,12 @@ html {
   font-family: "Helevetica", sans-serif;
 }
 
+*{
+  color:#ddd;
+}
+
 body {
-  color: #333;
+  color: #ff6969;
   font-weight: 100;
   max-width: 50em;
   margin: 0 auto;
