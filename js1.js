@@ -8,3 +8,7 @@ setInterval(function() {
   localStorage["title"] = document.getElementById("heading").innerHTML; // heading div
   localStorage["text"] = document.getElementById("content").innerHTML; // content div
 }, 1000);
+
+function featured{
+  alert("This is still being developed + no one has submitted for featured content :c");
+}
