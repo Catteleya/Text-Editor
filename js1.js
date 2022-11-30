@@ -8,3 +8,8 @@ setInterval(function() {
   localStorage["title"] = document.getElementById("heading").innerHTML; // heading div
   localStorage["text"] = document.getElementById("content").innerHTML; // content div
 }, 1000);
+const sub = document.getElementById('example-btn');
+
+sub.addEventListener('click', () => {
+  window.open('https://example.com', '_blank');
+});
