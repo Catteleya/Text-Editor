@@ -1,7 +1,9 @@
 document.getElementById("heading").innerHTML =
   localStorage["title"] || "Title"; // default text
+document.getElementById("heading-sub-text").innerHTML =
+  localStorage["title-sub-text"] || "Heading Sub-Text"; // default text
 document.getElementById("content").innerHTML =
-  localStorage["text"] || "Subtext [inf]"; // default text
+  localStorage["text"] || "Sub-Text [inf]"; // default text
 
 setInterval(function() {
   // fuction that is saving the innerHTML of the div
