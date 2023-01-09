@@ -28,6 +28,11 @@ div:focus {
   padding-top: 30px;
 }
 
+#heading-sub-text {
+  font-size: 30px;
+  padding-top: 10px;
+}
+
 #content {
   padding-top: 10px;
   font-size: 24px;
